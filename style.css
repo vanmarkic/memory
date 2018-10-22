@@ -1,0 +1,13 @@
+div {
+    display: block;
+}
+
+img {
+    opacity: 0;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+/* img:active {
+    opacity: 1;
+} */
